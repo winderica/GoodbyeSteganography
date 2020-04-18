@@ -2,7 +2,6 @@ import cv2
 import pandas as pd
 from matplotlib import pyplot as plt
 import numpy as np
-from PIL import Image
 
 
 def histogramAnalyze(frequency, dst):
